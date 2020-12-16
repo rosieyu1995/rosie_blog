@@ -15,6 +15,7 @@ module.exports = {
    *
    * ref：https://v1.vuepress.vuejs.org/theme/default-theme-config.html
    */
+  base:'/rosie_blog/',
   theme: '@vuepress/theme-blog',
   themeConfig: {
     // Please keep looking down to see the available options.
